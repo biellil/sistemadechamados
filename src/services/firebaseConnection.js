@@ -3,14 +3,15 @@ import 'firebase/auth';
 import 'firebase/firestore';
 import 'firebase/storage';
 
+
 let firebaseConfig = {
-  apiKey: "AIzaSyDXLo_6qqEjraijp3tQOaICIU5AUbPLO-o",
-  authDomain: "sistema-291e4.firebaseapp.com",
-  projectId: "sistema-291e4",
-  storageBucket: "sistema-291e4.appspot.com",
-  messagingSenderId: "695102058017",
-  appId: "1:695102058017:web:ba429da5e81d06297e3d60",
-  measurementId: "G-KNZBKV3ZDL"
+  apiKey: "AIzaSyCcBb_nyW41MUHA2M0438b1Qs_Jj0w40Mw",
+  authDomain: "sistemadechamados-ca58a.firebaseapp.com",
+  projectId: "sistemadechamados-ca58a",
+  storageBucket: "sistemadechamados-ca58a.appspot.com",
+  messagingSenderId: "1089657084671",
+  appId: "1:1089657084671:web:58b88b1d2115019ab90aca",
+  measurementId: "G-KNZBKV3ZDL",
 };
 
 
